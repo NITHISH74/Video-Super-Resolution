@@ -6,7 +6,15 @@ This project enhances video quality using Super-Resolution techniques with addit
 
 ## Features
 
-✅ Super-Resolution: Increases video resolution by 4x using ESPCN.✅ Color Correction: Enhances brightness and contrast using Histogram Equalization.✅ Noise Reduction: Removes unwanted noise with Non-Local Means Denoising.✅ Sharpness Enhancement: Uses Unsharp Masking for clearer visuals.✅ Frame Stabilization: Reduces jitter using Optical Flow-based stabilization.
+✅ Super-Resolution: Increases video resolution by 4x using ESPCN.
+
+✅ Color Correction: Enhances brightness and contrast using Histogram Equalization.
+
+✅ Noise Reduction: Removes unwanted noise with Non-Local Means Denoising.
+
+✅ Sharpness Enhancement: Uses Unsharp Masking for clearer visuals.
+
+✅ Frame Stabilization: Reduces jitter using Optical Flow-based stabilization.
 
 ## Technologies Used
 
